@@ -1,0 +1,47 @@
+html {
+	background-color: #808080;
+}
+
+body {
+	background-image: radial-gradient(farthest-corner at 40px 40px, #312f54 17%, #0C0824 72%);
+	color: #31C5F0;
+	border-color: #31C5F0;
+	font-family: 'Dosis', sans-serif;
+	width: 800px;
+	padding: 0px 10px 10px 10px;
+	border-style: solid;
+	border-width: 10px;
+	margin: 0 auto;
+}
+
+h1 	{
+	font-family: 'Fjalla One', sans-serif;
+	width:500px;
+	font-size:58px;
+	text-decoration: underline;
+	text-align: center;
+	text-shadow: 2px 2px 3px white;
+	padding:10px 0;
+	margin:0 auto;
+}
+
+p	{
+	font-size:15px;
+	width:500px;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+a	{
+	color: #ff00e7;
+}
+
+ul, ol  {
+	font-family: 'Zilla Slab', serif;
+}
+
+img#photoshop {
+	display:block;
+	margin:0 auto;
+	width:300px; 
+	height:300px;
+}
